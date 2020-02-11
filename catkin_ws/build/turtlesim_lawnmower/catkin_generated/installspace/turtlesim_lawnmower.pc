@@ -1,0 +1,8 @@
+prefix=/home/robond/Documents/rakshith/ASU/sem2/ses_598_autonomous_sys/hw1/catkin_ws/install
+
+Name: turtlesim_lawnmower
+Description: Description of turtlesim_lawnmower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Documents/rakshith/ASU/sem2/ses_598_autonomous_sys/hw1/catkin_ws/install/lib 
+Requires: 

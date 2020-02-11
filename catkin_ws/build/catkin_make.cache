@@ -1,0 +1,2 @@
+turtlesim_lawnmower:turtlesim_lawnmower2
+-DCATKIN_DEVEL_PREFIX=/home/robond/Documents/rakshith/ASU/sem2/ses_598_autonomous_sys/hw1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Documents/rakshith/ASU/sem2/ses_598_autonomous_sys/hw1/catkin_ws/install -G Unix Makefiles
